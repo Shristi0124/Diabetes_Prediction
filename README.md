@@ -1,7 +1,7 @@
 This project predicts diabetes using the PIMA Diabetes dataset and machine learning techniques.
 
 ## Dataset
-The dataset is available [here](https://github.com/datasets/diabetes).
+The dataset is available [here]().
 
 ## Tools and Libraries
 - Python
@@ -12,4 +12,4 @@ The dataset is available [here](https://github.com/datasets/diabetes).
 ## Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https:
+   git clone https: git@github.com:Shristi0124/Diabetes_Prediction.git
